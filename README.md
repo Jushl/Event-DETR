@@ -35,5 +35,4 @@ weights/
 
 &emsp;&emsp;&emsp;&emsp;&emsp; └── checkpoint0017.pth
 
-3.  Run detect.py
- The prediction results in `weights/detect/`.
+3.  Run detect.py and the prediction results in `weights/detect/`.
