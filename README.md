@@ -10,11 +10,11 @@ Follow the instruction on  [https://pytorch.org/get-started/locally/](https://py
 
 `conda install -c pytorch pytorch torchvision`
 
-3.   Install other needed packages
+2.   Install other needed packages
    
 `pip install -r requirements.txt`
 
-5.  Compiling CUDA operators
+3.  Compiling CUDA operators
    
 `cd models/EDT/ops`
 
